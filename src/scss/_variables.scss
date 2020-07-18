@@ -1,0 +1,38 @@
+$light-gray: #f3f3f3;
+$gray: #adadad;
+$dark-gray: #292929;
+$gray-1: #e8e8e8;
+$gray-2: #c1c1c1;
+$white: #fff;
+
+$primary-color: $dark-gray;
+$secondary-color: $white;
+$tertiary-color: $light-gray;
+
+$text-color-primary: $primary-color;
+$text-color-secondary: $secondary-color;
+$text-color-tertiary: $gray;
+
+$header-height: 70px;
+$sidebar-header-height: $header-height;
+$sidebar-footer-height: $header-height;
+$tables-footer-height: $header-height;
+
+$border-radius-base: 5px;
+$border-radius-sm: 3px;
+
+$shadow-color-base: rgba(0, 0, 0, 0.05);
+$shadow-blur-radius-base: 10px;
+
+$transition-base: 0.2s all;
+
+$button-disabled-background: $gray-1;
+$button-disabled-text-color: $gray-2;
+
+$table-row-hover-background: $light-gray;
+$table-row-selected-background: $dark-gray;
+$table-row-selected-color: $white;
+
+$modal-z-index-base: 1000;
+
+$placeholder-color: $gray-2;

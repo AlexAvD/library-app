@@ -1,0 +1,16 @@
+export const SET_SELECTED_INDEX = "SET_SELECTED_INDEX";
+export const SET_CURRENT_TABLE = "SET_CURRENT_TABLE";
+export const UNSET_SELECTED_INDEX = "UNSET_SELECTED_INDEX";
+export const DELETE_SELECTED = "DELETE_SELECTED_TABLE_DATA";
+export const SET_TABLE_DATA = "SET_TABLE_DATA";
+
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const SET_MODAL_TYPE = "SET_MODAL_TYPE";
+
+export const ADD = "ADD";
+export const UPDATE = "UPDATE";
+
+export const SET_SEARCH = "SET_SEARCH";
+
+export const CLEAR_TABLE = "CLEAR_TABLE";
